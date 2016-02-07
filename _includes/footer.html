@@ -1,9 +1,30 @@
 <footer>
     <div id="footer">
+        <br>
         <div class="container">
-            <p class="text-muted"><i class="fa fa-copyright"></i> {{ site.time | date: '%Y' }} All rights reserved. Powered by <a href="http://jekyllrb.com/">Jekyll</a> and
-            <a href="http://www.github.com/biomadeira/sustain">sustain</a> with ♥</p>
+            <!-- Placeholder for check this site widget -->
+            <div class="widget24372835796" style="width: 50%; margin: 0 auto;"
+                 data-widget-type="gf_this_site"></div>
+
+            <p class="text-muted"><i class="fa fa-copyright"></i> {{ site.time |
+                date: '%Y' }} All rights reserved. Powered by <a
+                        href="http://jekyllrb.com/">Jekyll</a> and
+                <a href="http://www.github.com/biomadeira/sustain">sustain</a>
+                with ♥</p>
         </div>
     </div>
+
+    <!-- The following script checks if this website is blocked from China's GFW -->
+    <script type="text/javascript">
+        (function () {
+            var ns = document.createElement('script');
+            ns.type = 'text/javascript';
+            ns.async = true;
+            ns.src = 'https://s3.amazonaws.com/all_widgets/widget.js';
+            var fs = document.getElementsByTagName('script')[0];
+            fs.parentNode.insertBefore(ns, fs);
+        })();
+    </script>
+
 </footer>
 <div class="footer"></div>
