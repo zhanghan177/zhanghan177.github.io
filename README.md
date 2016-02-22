@@ -1,5 +1,7 @@
 # zhanghan177 Homepage
 
+test strikethrough ~~strike~~
+
 This is my personal homepage. Personal domain is https://zhanghan177.me . This website uses [Jekyll](http://jekyllrb.com/) and [sustain](https://github.com/biomadeira/sustain) template.
 
 ## How to use it
