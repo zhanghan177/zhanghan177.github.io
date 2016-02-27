@@ -18,7 +18,8 @@ title: Han Zhang
 author: Han Zhang
 description: Han Zhang's personal website
 avatar: profile.png
-email: hazh@umich.edu
+email-orig: hazh@umich.edu
+email: '&#104;&#97;&#122;&#104;&#64;&#117;&#109;&#105;&#99;&#104;&#46;&#101;&#100;&#117;'
 github: zhanghan177 # username
 twitter: zhanghan177
 linkedin: zhanghan177
@@ -28,6 +29,9 @@ facebook: zhanghan177
 #disqus: username
 google_analytics: UA-58669347-1
 
+personal-email-orig: han@zhanghan177.me
+personal-email: '&#104;&#97;&#110;&#64;&#122;&#104;&#97;&#110;&#103;&#104;&#97;&#110;&#49;&#55;&#55;&#46;&#109;&#101;'
+mailto: '&#109;&#97;&#105;&#108;&#116;&#111;'
 
 # needed for travis-ci build
 exclude: [vendor]
