@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/zhanghan177
+--------------------------------------------------------------------
+
+I hereby claim:
+
+* I am an admin of https://zhanghan177.me
+* I am zhanghan177 (https://keybase.io/zhanghan177) on keybase.
+* I have a public key with fingerprint 922E 5BB5 EE4A 1E45 14CA  FF20 E198 C0A3 3BE4 7D7B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01011722b15eb7bb7aff695cd82684e1c1d03dcd9ff1f26267d090a4a40fa5970bea0a",
+      "fingerprint": "922e5bb5ee4a1e4514caff20e198c0a33be47d7b",
+      "host": "keybase.io",
+      "key_id": "e198c0a33be47d7b",
+      "kid": "01011722b15eb7bb7aff695cd82684e1c1d03dcd9ff1f26267d090a4a40fa5970bea0a",
+      "uid": "1bd4622a129bb22845fa2fb8eaafea19",
+      "username": "zhanghan177"
+    },
+    "service": {
+      "hostname": "zhanghan177.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1460149106,
+  "expire_in": 157680000,
+  "prev": "1c6d2a4094aedd7559c9d788fe89d1b69f1a37cb9fd8f87e59efb41554b47d02",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMM/AnicrVJtTBRHGD5QDJAgXM2BQovN1lhqD9zd268B2tpSjbVoFQ1UBK47u7PH
+Brk79ha84yNqqyYVlRILMeIVW5FKUuXDBI0RA4oJ6tWCATwphF4UKdJCS5VqDU13
+Sfur/dlJJpN53+d55nneTHfEAkN4UOBY56mUBxVlQbe6ThQbskLjlDIMOkQPllyG
+FaD5A+0UkUu1FsgilozhBE4QLElCgkaQhZDlJYkBtCByJMNRiBAIEbeIgggkiZBI
+hmRYEQc4T/EULvE0YHGIeJzHzJgk221IcSqyXdVkAUkiGkIaIYonEEUTlKAJkzgi
+ACfgvMUCEcWKLNSI+Q6XztDMQd6FkmSHVtMu1nl7/4H/n30Xz8sRUKQYkuQJEkBI
+khxFSzwpQQ7xvIR4AuhAF1LsfCHS0KX5vN2mbYJlsQozpjVKZAHps9XD/BuUpBXM
+mFNxqA7BsVPr5auq05Wsc1WPUwfvQtD6t4wVynZRG6bGKEGKS3bYsWRCQwqqrOsS
+FIMTFCBwxowht1NWkFXWETTLcLi29HdQiR5JYERSiwsoHokiS9NAACLLcRLigEhA
+BkgEb2EFCCSRkzgW0QBJkCJomoLaqHES04MV2R1YMqXZ5G2apEu22Xm1WEFYxdWu
+nIWGoHDDopBg/ZMZwsOi/vl6r2+IMoyA77uMqeO5AtN6dX+Uuea38mGjeq29uzUh
+Yk9zDPwUPDrj8Q3tXtDz5Vw9u+HkpSl/yOjBpNS4Fqe6KOkJXPHCW1EXhdMmc1Tf
+HbH1Tk7W5qOVkZhUNPVu58pbS56m0nKkaRBhk8V1IY/TUh6ad6xqmEVnRg/v2bbO
+ctNV7jR6PKV9Hd7Pomt3TxbSEZ0ZLU11J4x9g93jP+1z+nr7wY+Nc5dc7w+/WuX2
+DZmft/Wb/EuXP0vMUJWfx9oHXlwWG7RemJvZvnd2K5kxuS/xtUenr6x95co7G68V
+goBjWU3BvT9v5J1LUEd66+K30B8dHTmXtzVdau+KjF1smphkq6Zj39z29sMtx1cG
+lFz/7Za5qsuncvvAmNE2PWEZHQzxesM21vroB5OVh8au78qmjh0iW33BbtPXq545
+A7El5JJfritpNz8pfd7Tnm1Mr/5ub3BacV7t2o8ntsf4N6XP/B7qzklJHHTGVw0d
+ODndUtN9P6WhpnRs4L1A5tm7/ZtS46ovh6a0Zc7cXx3jaW7nLrJTq7OLSjBD9cKm
+s5Hk51844mfLK8/fHTg8FFg//Hgi/sivIfc6vJlhx89H96452PjUW2Q30I0fLq0w
+YG8sX+Mvyt/v/qH+yLebrTd2/PFNwmJ3XV6o63bT0IH60o6X623N49EvXWie/apB
+GP7ggqD42p4UZq3r+Qsb1skK
+=6TIq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zhanghan177
+
+==================================================================
+
