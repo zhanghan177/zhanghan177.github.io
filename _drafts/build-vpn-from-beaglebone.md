@@ -55,7 +55,7 @@ with this
 It has to be specifically for BBB Rev.C, which
 is the version of my board. After burning the image into microSD and plug it in my
 board(unplugged power), I held down the boot switch and plugged the power cable.
-Now the four LEDs flash at their own rythem.
+Now the four LEDs flash at their own rhythm.
 
 ### Install OpenVPN
 
@@ -65,14 +65,14 @@ First, SSH into the board using `ssh root@192.168.7.2`. Then I need to create
 an account for myself. It's probably not a good idea to play around in root 
 account, as you might break things easily as a root. First thing is to **disable
 default debian account**! Beaglebone has a default debian account with password
-as temppwd. Leaving this accout active is definitely not a good idea. To disable
+as temppwd. Leaving this account active is definitely not a good idea. To disable
 it before we create our own account, run `passwd debian -l`. Second thing to do
 is **change the root's password**! Run `passwd` and then set your new *complex*
 password. As for create personal
 account, this link from 
 [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-add
 -delete-and-grant-sudo-privileges-to-users-on-a-debian-vps)
-is very helpful. Remeber to give yourself sudo privilige.
+is very helpful. Remember to give yourself sudo privilege.
 
 Logout as root. Login with personal account. Run:
 
