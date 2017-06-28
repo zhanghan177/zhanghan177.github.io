@@ -7,7 +7,9 @@ kramdown:
 
 permalink: /:title.html
 paginate: 5
-gems: [jekyll-paginate, jekyll-last-modified-at]
+gems:
+  - jekyll-paginate
+  - jekyll-last-modified-at
 port: 3000
 safe: true
 
