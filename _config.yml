@@ -38,5 +38,7 @@ personal-email-orig: han@zhanghan177.me
 personal-email: '&#104;&#97;&#110;&#64;&#122;&#104;&#97;&#110;&#103;&#104;&#97;&#110;&#49;&#55;&#55;&#46;&#109;&#101;'
 mailto: '&#109;&#97;&#105;&#108;&#116;&#111;'
 
+timezone: America/New_York
+
 # needed for travis-ci build
 exclude: [vendor]
