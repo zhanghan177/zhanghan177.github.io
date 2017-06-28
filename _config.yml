@@ -7,7 +7,7 @@ kramdown:
 
 permalink: /:title.html
 paginate: 5
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-last-modified-at]
 port: 3000
 safe: true
 
@@ -18,8 +18,8 @@ title: Han Zhang
 author: Han Zhang
 description: Han Zhang's personal website
 avatar: profile.png
-email-orig: hazh@umich.edu
-email: '&#104;&#97;&#122;&#104;&#64;&#117;&#109;&#105;&#99;&#104;&#46;&#101;&#100;&#117;'
+email-orig: hzhang3@andrew.cmu.edu
+email: '&#104;&#122;&#104;&#97;&#110;&#103;&#51;&#64;&#97;&#110;&#100;&#114;&#101;&#119;&#46;&#99;&#109;&#117;&#46;&#101;&#100;&#117;">&#104;&#122;&#104;&#97;&#110;&#103;&#51;&#64;&#97;&#110;&#100;&#114;&#101;&#119;&#46;&#99;&#109;&#117;&#46;&#101;&#100;&#117;'
 github: zhanghan177 # username
 twitter: zhanghan177
 linkedin: zhanghan177
