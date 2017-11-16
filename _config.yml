@@ -28,12 +28,14 @@ github: zhanghan177 # username
 twitter: zhanghan177
 linkedin: zhanghan177
 facebook: zhanghan177
+medium: zhanghan
 keybase-url: https://keybase.io/zhanghan177
 #stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 #disqus: username
 google_analytics: UA-58669347-1
 
+# email obfuscation
 personal-email-orig: han@zhanghan177.me
 personal-email: '&#104;&#97;&#110;&#64;&#122;&#104;&#97;&#110;&#103;&#104;&#97;&#110;&#49;&#55;&#55;&#46;&#109;&#101;'
 mailto: '&#109;&#97;&#105;&#108;&#116;&#111;'
@@ -42,3 +44,9 @@ timezone: America/New_York
 
 # needed for travis-ci build
 exclude: [vendor]
+
+
+## External links
+harsha: https://web.eecs.umich.edu/~harshavm/
+matt: https://www.cs.cmu.edu/~mfredrik/
+yuvraj: https://www.synergylabs.org/yuvraj/
