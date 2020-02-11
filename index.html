@@ -1,6 +1,12 @@
 ---
 layout: home
 ---
+{%   assign today = site.time | date: '%s'      %}
+{%   assign start = '20-08-2017 04:00:00' | date: '%s'  %}
+{%   assign secondsSince = today | minus: start     %}
+{%   assign hoursSince = secondsSince | divided_by: 60 | divided_by: 60     %}
+{%   assign daysSince = hoursSince | divided_by: 24  %}
+{%   assign yearsSince = daysSince | divided_by: 365 | plus: 1 %}
 
 <section id="about">
     <div class="container">
@@ -10,11 +16,22 @@ layout: home
                  height="200" alt="This is Han just took off braces!">
         </div>
         <h3>Hello, my name is <strong>{{ site.author }}</strong>.</h3>
-        <h3>I am a third year PhD student in the Computer Science Department at
+        <h3>I am a
+            {% case yearsSince %}
+            {% when 3 %}
+            third
+            {% when 4 %}
+            forth
+            {% when 5 %}
+            fifth
+            {% else %}
+            n-th
+            {% endcase %}
+            year PhD student in the Computer Science Department at
             Carnegie Mellon University. I'm fortunate to be advised by
-            <a href="{{ site.yuvraj }}">Yuvraj Agarwal</a> 
+            <a href="{{ site.yuvraj }}">Yuvraj Agarwal</a>
             and <a href="{{ site.matt }}">Matt Fredrikson</a>.
-           
+
         </h3>
 
         <h3>Prior to that, I went to The University of Michigan for my undergrad
