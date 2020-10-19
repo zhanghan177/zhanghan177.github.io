@@ -3,5 +3,5 @@ layout: none
 ---
 
 User-agent: *
-Disallow: # Allow all site to be crawled 
+Disallow: /cv.pdf # Allow all site to be crawled 
 Sitemap: {{ site.url }}/sitemap.xml
