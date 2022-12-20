@@ -17,7 +17,7 @@ safe: true
 # http://www.knechtology.com/stop-spam/email_encoder.html
 
 # edit here to achieve your personal greatness
-url: https://zhanghan177.me
+url: https://zhanghan177.github.io/
 baseurl: /
 title: Han Zhang
 author: Han Zhang
@@ -35,10 +35,9 @@ keybase-url: https://keybase.io/zhanghan177
 #Comment out if you don't want disqus 
 #disqus: username
 #google_analytics: UA-58669347-1
+google-scholar: https://scholar.google.com/citations?user=z-9oCNUAAAAJ&hl=en
 
 # email obfuscation
-personal-email-orig: han@zhanghan177.me
-personal-email: '&#104;&#97;&#110;&#64;&#122;&#104;&#97;&#110;&#103;&#104;&#97;&#110;&#49;&#55;&#55;&#46;&#109;&#101;'
 mailto: '&#109;&#97;&#105;&#108;&#116;&#111;'
 
 timezone: America/New_York
